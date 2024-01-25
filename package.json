@@ -1,0 +1,16 @@
+{
+  "name": "learmjavascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^10.7.2",
+    "react-icons": "^5.0.1"
+  }
+}
